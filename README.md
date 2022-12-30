@@ -8,6 +8,7 @@ Todo:
 - Instant kill all animals nearby
 - Teleport all animals to you
 - Playerlists
+- isHost, player check, map check, outpost unlocks
 - More
 
 Just very basic options at the moment that honestly should be enough for everyone to have a little fun.
