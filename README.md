@@ -30,7 +30,7 @@ Just very basic options at the moment that honestly should be enough for everyon
 v0.2 - 19/01/2023
 
 <p align="center">
-    <img src="images/MenuExample.PNG" alt="Logo" >
+    <img src="images/MenuExample (3).PNG" alt="Logo" >
     <br />
     <a href="https://iiferedon.xyz"><strong>My Website »</strong></a>
     <br />
